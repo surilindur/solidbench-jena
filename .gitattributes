@@ -1,0 +1,3 @@
+*.json linguist-detectable=true linguist-language=JSON
+*.rq linguist-detectable=true linguist-language=SPARQL
+*.yml inguist-detectable=true linguist-language=YAML
