@@ -94,7 +94,7 @@ def save_query_data(
     time: timedelta,
 ) -> None:
     info(f"Saving data in {path} for query {id}")
-    query_path = path.joinpath(f"{id}.{STANDARD_QUERY_EXT}")
+    query_path = path.joinpath(f"{id}{STANDARD_QUERY_EXT}")
     result_path = path.joinpath(f"{id}.json")
     metadata_path = path.joinpath(f"{id}-meta.json")
     metadata = {
