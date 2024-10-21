@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "organizationName",
+      "organizationWorkFromYear"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "organizationName": {
+          "type": "literal",
+          "value": "PrivatAir"
+        },
+        "organizationWorkFromYear": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2003"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Akira"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300839"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Inoue"
+        }
+      }
+    ]
+  }
+}

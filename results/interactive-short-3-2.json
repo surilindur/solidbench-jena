@@ -1,0 +1,154 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "firstName",
+      "lastName",
+      "friendshipCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Emperor of Brazil"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-19T19:21:54.433Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Dom Pedro II"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067534"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Anders"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-02T22:39:28.664Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Andersson"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278468"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-13T16:44:22.450Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Joao"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-15T04:24:28.397Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Oliveira"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302323722"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Alfred"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-03T22:09:15.016Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Hoffmann"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834375"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Michal"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-09-17T21:40:17.976Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Kaminski"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209301592"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Alexander"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-29T18:00:10.845Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Hleb"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325578932"
+        }
+      }
+    ]
+  }
+}

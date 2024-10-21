@@ -1,0 +1,1069 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-28T20:00:51.158Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719703698"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-03-02T00:26:11.534Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317002668"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-05-24T14:06:26.382Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "137439180534"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-04-10T06:51:04.984Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036479295"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "maybe"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-03T14:59:37.888Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795570"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Woodrow Wilson, rm Loan Act and an income tax. Child labor was curtailed by "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-09-22T17:52:46.701Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878133954"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Jean-Paul Sartre, nd continuAbout Martin Luther, mination tAbout Ulysses S. Grant,"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-21T08:50:12.207Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353296180"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-20T07:21:36.229Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353296375"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Nigeria, in the world in which the majority of the population is black. Its "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-15T12:28:59.388Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792378236"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-20T19:07:25.648Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633948323"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-30T05:33:23.783Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792272121"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-12T13:00:02.366Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317087261"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-20T03:48:53.147Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792151044"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-03T16:48:56.435Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072901922"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-03T21:00:57.106Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072901507"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Friedrich Schiller, laywright. During the lastAbout Freddie Mercury, him one of the most influeA"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-18T20:07:50.539Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317002593"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-30T14:24:27.983Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633819312"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Meryl Streep, Australian Film Institute Award, five Grammy Award nominations, and a Tony Award nAbout Eleanor Roosevelt,  on the campus at the University of"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-28T16:33:28.130Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719703699"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Johnny Depp, ined acclaim for About Dirrty, 2 as the album's About Cameroon,"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-23T02:08:21.581Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633948154"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "maybe"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-27T00:08:42.510Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072816624"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Plácido Domingo,  tenor and conductor known for his versatile and strong voice, pos"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-21T02:49:50.603Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317087321"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Manuel Noriega, ga Moreno (bornAbout R. Kelly,  most successfuAbout Life in Tec"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-02T01:10:18.299Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072901712"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Bob Dylan,  Bob Dylan, released in March 1962 on Columbia Records. It fe"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-22T17:37:16.353Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597526156"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-03T10:23:21.946Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795586"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-22T01:19:58.204Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633948217"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-30T23:03:16.167Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878134534"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-25T13:19:05.238Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792378178"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T22:04:12.837Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353339927"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-05T05:21:15.452Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412316860440"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-11T13:04:09.148Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158657583"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Can See for Miles, 7. It remains The Who's biggest hit single in the US to date"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-07-09T21:18:06.822Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475432689"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-11T20:03:26.628Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158657719"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Leona Lewis, worldwide in 2008. Other notable singles About Meryl Streep, "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-28T17:48:17.750Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719703700"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-07T07:41:27.262Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795511"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-03-05T22:38:23.661Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317002825"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-22T12:02:30.173Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597526122"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-28T18:19:59.107Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719703695"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-04T03:21:25.901Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795528"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About James Buchanan,  March 8, 1887) was a world-rAbout William Randolph Hearst, En"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-04T06:31:18.075Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795552"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About John Coltrane, c took on an increasingly spiritual dimension. His seco"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-22T21:01:52.046Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792272060"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Evo Morales,  leftist policies in the cAbout Franklin D. Roosevelt, D"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-10T17:32:31.137Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633863028"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-11T00:50:02.944Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158657628"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-23T04:44:25.687Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597526168"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-22T06:28:10.287Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597526137"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-02-14T20:30:21.451Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Franz Schubert, nd Felix MendelssohnAbout Rock Your Baby, ted States, pen"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-03-05T15:45:43.966Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317002822"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-28T19:24:51.587Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719703701"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-01T15:26:48.490Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878134506"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-21T08:56:43.436Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353296231"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-21T21:57:40.418Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633948225"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-20T08:29:59.490Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633863112"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "maybe"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-04T04:28:27.959Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072902061"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-08T05:14:13.380Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792249459"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Jean-Baptiste Lamarck, embered, at least in malacology, as a taxonomAbout Gioachino"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-30T08:10:27.992Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633863206"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Jacques Chirac, Minister of the InterioAbout Vladimir Putin, , macho image, demonst"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-22T00:50:00.553Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597526121"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-12T07:27:39.629Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158657924"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-04T08:17:10.078Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795527"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Argentina, ario Alberto Kempes and their head coach is Alejandro Sabella"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-09-25T16:42:46.587Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687194994244"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-30T16:47:05.175Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878134295"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-08-17T06:05:40.595Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475290624"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-20T22:46:43.802Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353296387"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-03T11:51:59.268Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795589"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-07T22:19:18.041Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792249462"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-31T09:33:43.556Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878134533"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "fine"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-23T04:05:11.473Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317002705"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-04T16:55:12.338Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795525"
+        }
+      }
+    ]
+  }
+}

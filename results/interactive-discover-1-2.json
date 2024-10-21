@@ -1,0 +1,77 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Josip Broz Tito, c and diplomatic policiAbout Rogier Wassen, on three ATP doubles tiAbout Sammy Davis, Jr.,"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-10T16:58:01.341Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430586"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Haile Selassie I, onalist viewsAbout Alexandre Dumas, ist. He was tAbout Amitabh Bachchan,  career spannAb"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-30T02:05:03.337Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430610"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Haile Selassie I, ong the nobles (mekwannAbout George Orwell, everal of his neologismAbout Vatican City, "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-29T21:49:18.337Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430625"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Haile Selassie I, emporaries and historianAbout Herbert Kitchener, 1st Earl Kitchener, -Chief (1902–09) of the Ab"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-08-31T02:14:03.337Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430594"
+        }
+      }
+    ]
+  }
+}

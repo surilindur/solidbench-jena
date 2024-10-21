@@ -1,0 +1,26 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?tagName (COUNT(*) AS ?postCount) WHERE {
+  BIND("2012-10-01T00:00:00.000Z"^^xsd:dateTime + (STRDT(CONCAT("P", "76", "D"), xsd:duration)) AS ?endDate)
+  <http://localhost:3000/pods/00000019791209300151/profile/card#me> rdf:type snvoc:Person;
+    ((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson)) ?fr.
+  ?post rdf:type snvoc:Post;
+    snvoc:hasCreator ?fr;
+    snvoc:hasTag ?tag.
+  ?tag foaf:name ?tagName.
+  ?post snvoc:creationDate ?creationDate.
+  FILTER((?creationDate >= "2012-10-01T00:00:00.000Z"^^xsd:dateTime) && (?creationDate <= ?endDate))
+  FILTER(NOT EXISTS {
+    <http://localhost:3000/pods/00000019791209300151/profile/card#me> ((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson)) ?fr2.
+    ?post2 snvoc:hasCreator ?fr2;
+      rdf:type snvoc:Post;
+      snvoc:hasTag ?tag;
+      snvoc:creationDate ?creationDate2.
+    FILTER(?creationDate2 < "2012-10-01T00:00:00.000Z"^^xsd:dateTime)
+  })
+}
+GROUP BY ?tagName
+ORDER BY DESC (?postCount) (?tagName)
+LIMIT 10

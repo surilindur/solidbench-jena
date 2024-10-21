@@ -1,0 +1,122 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "5"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Augustine_of_Hippo"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Hamid_Karzai"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "James,_son_of_Zebedee"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Batman"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Beyoncé_Knowles"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Czech_Republic"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Ecuador"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Edmund_Burke"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Edward_the_Confessor"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Equatorial_Guinea"
+        }
+      }
+    ]
+  }
+}

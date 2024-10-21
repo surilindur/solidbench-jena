@@ -1,0 +1,22 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+SELECT ?commentId ?commentContent ?commentCreationDate ?replyAuthorId ?replyAuthorFirstName ?replyAuthorLastName ?replyAuthorKnowsOriginalMessageAuthor WHERE {
+  <http://localhost:3000/pods/00000002199023256081/comments/274878069404> snvoc:id ?messageId;
+    snvoc:hasCreator ?messageCreator.
+  ?messageCreator snvoc:id ?messageCreatorId.
+  ?comment snvoc:replyOf <http://localhost:3000/pods/00000002199023256081/comments/274878069404>;
+    rdf:type snvoc:Comment;
+    snvoc:id ?commentId;
+    snvoc:content ?commentContent;
+    snvoc:creationDate ?commentCreationDate;
+    snvoc:hasCreator ?replyAuthor.
+  ?replyAuthor snvoc:id ?replyAuthorId;
+    snvoc:firstName ?replyAuthorFirstName;
+    snvoc:lastName ?replyAuthorLastName.
+  OPTIONAL {
+    ?messageCreator ((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson)) ?replyAuthor.
+    BIND("true"^^xsd:boolean AS ?replyAuthorKnowsOriginalMessageAuthorInner)
+  }
+  BIND(COALESCE(?replyAuthorKnowsOriginalMessageAuthorInner, "false"^^xsd:boolean) AS ?replyAuthorKnowsOriginalMessageAuthor)
+}

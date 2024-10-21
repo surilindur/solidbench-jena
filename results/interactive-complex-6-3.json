@@ -1,0 +1,122 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Augustine_of_Hippo"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Genghis_Khan"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Imelda_Marcos"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "A_Love_Supreme"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Alexander_Downer"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Anton_Chekhov"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Arnold_Schwarzenegger"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Ascension_Island"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Batman"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Benjamin_Britten"
+        }
+      }
+    ]
+  }
+}

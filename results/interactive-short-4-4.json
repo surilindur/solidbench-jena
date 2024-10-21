@@ -1,0 +1,23 @@
+{
+  "head": {
+    "vars": [
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Henry II of England, nds in Anjou, Maine and Touraine. Henry About Joe Strummer, Strummerville Foundation for th"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-10-21T07:28:39.382Z"
+        }
+      }
+    ]
+  }
+}

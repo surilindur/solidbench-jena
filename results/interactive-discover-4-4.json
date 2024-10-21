@@ -1,0 +1,45 @@
+{
+  "head": {
+    "vars": [
+      "locationName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "182"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Estonia"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Lithuania"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      }
+    ]
+  }
+}

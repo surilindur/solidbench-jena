@@ -1,0 +1,357 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Humayun, rt culture, as the Central Asian origins oAbout White Feathers,  th"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-03-14T02:34:58.640Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036674983"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036674976"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Humayun, 5–1556. Like his father, Babur, he lost his About Reba McEntire,  more t"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-28T23:47:42.752Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878243866"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878243865"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-06-08T13:41:07.252Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "137439290499"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "137439290493"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-08-21T12:21:18.664Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475628147"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475628132"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-08T04:55:07.431Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317198528"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317198520"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Every Day Is Exactly the Same, the film's most recognizable song. The raAb"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-06-23T01:23:45.087Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "137439289892"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "137439289890"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Stephen Harper, found the CabinAbout Bertrand Russell, er, logician, mAbout My "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-26T21:17:24.711Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158769200"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158769194"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Oman, en ruled by the Al Said dynasty since 1744,About Bonita Applebum, nita Ap"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-05-29T22:10:56.532Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "549756151926"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "549756151913"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Lyndon B. Johnson, son was greatly supported by the DemocAbout Rock "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-19T22:46:32.082Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158767697"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158767690"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Oliver Cromwell, diner. In a 2002 BBC poll in BAbout Justin Timberlake,  of the boy band 'N Sync, whosAbout The "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-16T10:22:41.489Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072813915"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Alim"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186044425"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Guliyev"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072813906"
+        }
+      }
+    ]
+  }
+}

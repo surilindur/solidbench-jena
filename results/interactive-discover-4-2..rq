@@ -1,0 +1,11 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?locationName (COUNT(?message) AS ?messages) WHERE {
+  ?message snvoc:hasCreator <http://localhost:3000/pods/00000000000000001129/profile/card#me>;
+    rdf:type snvoc:Comment;
+    snvoc:isLocatedIn ?location.
+  ?location foaf:name ?locationName.
+}
+GROUP BY ?locationName
+ORDER BY DESC (?messages)

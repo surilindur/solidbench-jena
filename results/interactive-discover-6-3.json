@@ -1,0 +1,23 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719476773"
+        },
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of A. Rao"
+        }
+      }
+    ]
+  }
+}

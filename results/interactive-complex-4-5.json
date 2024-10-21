@@ -1,0 +1,11 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": []
+  }
+}

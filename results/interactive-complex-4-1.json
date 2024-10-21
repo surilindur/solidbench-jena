@@ -1,0 +1,45 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Norodom_Sihanouk"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "George_Clooney"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Louis_Philippe_I"
+        }
+      }
+    ]
+  }
+}

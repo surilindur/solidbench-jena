@@ -1,0 +1,596 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "messageId",
+      "messageContent",
+      "messageCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Friedrich Nietzsche, ionysian dichotomy, perspectivism and the will to power. Cent"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T23:57:53.875Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633867582"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Bruna"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556811"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Costa"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Alexander Downer, r eight monthAbout John Major, onal manner. About Zambia, nited N"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T23:56:55.607Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633833468"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Anupam"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023493"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Reddy"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Alexander Downer, was also the LAbout Italy, tria and SloveAbout Zambia,"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T23:54:57.933Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633833464"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Nicolae"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767341"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Antonescu"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T23:49:29.707Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633772181"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jorge"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046512201"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Arango"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T23:12:48.395Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633830742"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Abdala"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046511257"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Ndiaye"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Guy Sebastian, th John Mayer on guitar and backing vocals, and Art of Love featuring Jordin Sparks. Who's That "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:55:54.579Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633830739"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Rafael"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162789093"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Fernández"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:52:51.556Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633876188"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Chris"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811663"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Hall"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:50:00.685Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634043285"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Frank"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046511587"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Anderson"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:30:40.341Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633916735"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Dionysis"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "870"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Karvelas"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079739.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:44.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079739"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079738.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:43.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079738"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079737.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:42.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079737"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079736.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:41.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079736"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079735.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:40.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079735"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079734.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:39.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079734"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079733.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:38.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079733"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079732.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:37.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079732"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079731.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:36.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079731"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079730.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:35.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079730"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634079729.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-31T22:00:34.910Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634079729"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faiz"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768275"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qaderi"
+        }
+      }
+    ]
+  }
+}

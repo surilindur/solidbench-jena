@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412316870866"
+        },
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 5 of Abdul Razzak Jahani"
+        },
+        "moderatorFirstName": {
+          "type": "literal",
+          "value": "Abdul Razzak"
+        },
+        "moderatorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1125"
+        },
+        "moderatorLastName": {
+          "type": "literal",
+          "value": "Jahani"
+        }
+      }
+    ]
+  }
+}

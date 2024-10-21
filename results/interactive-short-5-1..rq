@@ -1,0 +1,8 @@
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+SELECT ?personId ?firstName ?lastName WHERE {
+  <http://localhost:3000/pods/00000026388279068034/posts/India#1030792516495> snvoc:id ?messageId;
+    snvoc:hasCreator ?creator.
+  ?creator snvoc:id ?personId;
+    snvoc:firstName ?firstName;
+    snvoc:lastName ?lastName.
+}

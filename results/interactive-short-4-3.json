@@ -1,0 +1,23 @@
+{
+  "head": {
+    "vars": [
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo962072952306.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-30T18:40:09.451Z"
+        }
+      }
+    ]
+  }
+}

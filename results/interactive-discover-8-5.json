@@ -1,0 +1,112 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Guy Forget,  player. During his career, he helped France win the Davis Cup in both"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About John F. Kennedy,  has made extensive improvements to terminals, roadways anAbout Positively 4th Street, ongs "
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "maybe"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Peter Hain, r of the House of Commons About Guam, erritory of the United StaAbout Let It Bleed, s"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000013194139534185/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About John F. Kennedy, rport in the world and sixth busiest inAbout Blonde on"
+        }
+      }
+    ]
+  }
+}

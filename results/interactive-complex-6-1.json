@@ -1,0 +1,122 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "David_Foster"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Muammar_Gaddafi"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Robert_John_Mutt_Lange"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Alfred_the_Great"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Andre_Agassi"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Andy_Roddick"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Bangladesh"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Benito_Mussolini"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Clark_Gable"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Condoleezza_Rice"
+        }
+      }
+    ]
+  }
+}

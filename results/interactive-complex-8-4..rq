@@ -1,0 +1,22 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+SELECT ?personId ?personFirstName ?personLastName ?commentCreationDate ?commentId ?commentContent WHERE {
+  VALUES ?type {
+    snvoc:Comment
+    snvoc:Post
+  }
+  <http://localhost:3000/pods/00000002199023257206/profile/card#me> rdf:type snvoc:Person.
+  ?message snvoc:hasCreator <http://localhost:3000/pods/00000002199023257206/profile/card#me>;
+    rdf:type ?type.
+  ?comment rdf:type snvoc:Comment;
+    snvoc:replyOf ?message;
+    snvoc:creationDate ?commentCreationDate;
+    snvoc:id ?commentId;
+    snvoc:content ?commentContent;
+    snvoc:hasCreator ?person.
+  ?person snvoc:id ?personId;
+    snvoc:firstName ?personFirstName;
+    snvoc:lastName ?personLastName.
+}
+ORDER BY DESC (?commentCreationDate) (?commentId)
+LIMIT 20

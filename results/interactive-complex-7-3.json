@@ -1,0 +1,798 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "likeCreationDate",
+      "messageId",
+      "messageContent",
+      "minutesLatency",
+      "isNew"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-12T23:45:48.742Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About James Madison, tobacco and othAbout Henry Fonda, ollywood debut About Drop the Wo"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597409981"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "949839"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Cesar"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834794"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Diaz"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-12T14:11:43.508Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634047476.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634047476"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "285299"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "John"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833995"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Sharma"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-12T11:05:28.359Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634047476.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634047476"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "285112"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Javed"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325579394"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Sheikh"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T16:14:04.070Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Tiberius, s hominum, the gloomiest of men. After the death of TiberiusAbout Honduras, t by Guatemala, to the sou"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158768466"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1067072"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Eugene"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833796"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Roindefo"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T08:36:45.511Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo755914570616.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "755914570616"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "398189"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Ramon"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768005"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Reyes"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T04:55:46.837Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634047476.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634047476"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "283303"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Zeki"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834585"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Koksal"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T20:50:24.330Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Augustine of Hippo,  memorial is celebrated 28 August, theAbout Cecil"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353341315"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "221363"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Lin"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834605"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Li"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T12:27:33.326Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo755914570616.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "755914570616"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "396980"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jose"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533391"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Pereira"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T07:37:25.997Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Nero,  later the About Justin Timberlake,  and busineAbout Donald Trump,  "
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036365226"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "763953"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Otto"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833579"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Becker"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T20:30:33.076Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Dante Alighieri, t literary work composed in the Italian language and a masterpiece of world literature. In Italy he is known as il Sommo Poeta (t"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072939419"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "136923"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "A."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162790406"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Sharma"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T16:39:50.804Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo549756140496.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "549756140496"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "674513"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "John"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325578088"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T05:31:02.342Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Tiberius, s hominum, the gloomiest of men. After the death of TiberiusAbout Honduras, t by Guatemala, to the sou"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158768466"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1063549"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Charles"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833536"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "David"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-07T13:06:53.837Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634047476.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634047476"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "278034"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Arjun"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811940"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Khan"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-05T19:43:06.163Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Woodrow Wilson,  slogan, He kept us out of warAbout Allen Ginsberg, Francisco prosecutor argued itAbout Ho Chi Minh,  the Vietnamese in the 17th ceAbout Luxembourg, sensus in favour of economic, About "
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878233298"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "974541"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Abdoulatifou"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834530"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Rajoelina"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-05T14:57:19.405Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Woodrow Wilson,  slogan, He kept us out of warAbout Allen Ginsberg, Francisco prosecutor argued itAbout Ho Chi Minh,  the Vietnamese in the 17th ceAbout Luxembourg, sensus in favour of economic, About "
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878233298"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "974255"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Anura"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834886"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Abeywardena"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-05T09:42:42.520Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Dante Alighieri, t literary work composed in the Italian language and a masterpiece of world literature. In Italy he is known as il Sommo Poeta (t"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072939419"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "130515"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Emperor of Brazil"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834423"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Santos"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-04T17:14:11.818Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634047476.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634047476"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "273961"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Alexander"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046511904"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Popov"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-04T15:03:56.150Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Tiberius, s hominum, the gloomiest of men. After the death of TiberiusAbout Honduras, t by Guatemala, to the sou"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158768466"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1056921"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Roberto"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834823"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Amenábar"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-03T22:36:22.494Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Augustine of Hippo,  memorial is celebrated 28 August, theAbout Cecil"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353341315"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "211389"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Cheng"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833865"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Yu"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-03T12:56:08.810Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo824634047476.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634047476"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "272263"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Takeshi"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325578724"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Suzuki"
+        }
+      }
+    ]
+  }
+}

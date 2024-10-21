@@ -1,0 +1,15 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "xCount",
+      "yCount",
+      "count"
+    ]
+  },
+  "results": {
+    "bindings": []
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-13T08:23:11.090Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877995403"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Edward"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768211"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Ouma"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877995388"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Catherine the Great, ondent of VoAbout Peter Gabriel,  Video MusicAbout Horatio Ne"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-16T16:34:29.127Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353210662"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Muhammad"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022467"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Amjad"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353210651"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-07-26T17:30:39.968Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475484020"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "A. C."
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069766983"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Bos"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475484016"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Adolf Hitler, His views were moAbout Jay-Z, ie. Jay-Z co-ownsAbout South V"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-18T04:53:40.777Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792358918"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Eduardo"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300326"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Araya"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792358911"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-10-14T08:09:30.417Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687194960061"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Salim Ahmed"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767242"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Binalshibh"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687194960049"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-12-17T04:35:35.369Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "755914312532"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Gisela"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300787"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Sumac"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "755914312531"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-01T04:22:45.758Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877920299"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Muhammad"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022467"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Amjad"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877920290"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rory Gallagher, ms throughout the 1970s and 1980s, after forming the band Taste during the lAbout Kingdom of Castile, omes from the host of castl"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-06T16:20:28.447Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158582959"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Kamal"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023257206"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Aziz"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158582956"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Captain America, erica was reintroducedAbout Wichita Lineman,  song also topped"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-12-14T02:58:12.259Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "755914312514"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Gisela"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300787"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Sumac"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "755914312501"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, nglish Language and Literature there from 1945 to 1959. He was a clos"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-04-14T09:56:55.363Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036337629"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Gustavo"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046512167"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Arbelaez"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036337629"
+        }
+      }
+    ]
+  }
+}

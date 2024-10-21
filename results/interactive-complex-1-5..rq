@@ -1,0 +1,87 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT (?frId AS ?friendId) (?last AS ?friendLastName) (MIN(?dist) AS ?distanceFromPerson) (?bday AS ?friendBirthday) (?since AS ?friendCreationDate) (?gen AS ?friendGender) (?browser AS ?friendBrowserUsed) (?locationIP AS ?friendLocationIp) (?emails AS ?friendEmails) (?languages AS ?friendLanguages) (?based AS ?friendCityName) (?studies AS ?friendUniversities) (?jobs AS ?friendCompanies) WHERE {
+  {
+    SELECT ?fr ?emails ?dist (GROUP_CONCAT(?language; SEPARATOR = ", ") AS ?languages) WHERE {
+      {
+        SELECT ?fr ?dist (GROUP_CONCAT(?email; SEPARATOR = ", ") AS ?emails) WHERE {
+          {
+            SELECT ?fr (MIN(?distInner) AS ?dist) WHERE {
+              <http://localhost:3000/pods/00000032985348834036/profile/card#me> rdf:type snvoc:Person;
+                snvoc:id ?rootId, ?rootId.
+              ?fr rdf:type snvoc:Person.
+              {
+                <http://localhost:3000/pods/00000032985348834036/profile/card#me> ((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson)) ?fr.
+                BIND(1  AS ?distOneInner)
+              }
+              UNION
+              {
+                <http://localhost:3000/pods/00000032985348834036/profile/card#me> (((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))/((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))) ?fr.
+                BIND(2  AS ?distTwoInner)
+              }
+              UNION
+              { <http://localhost:3000/pods/00000032985348834036/profile/card#me> (((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))/((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))/((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))) ?fr. }
+              ?fr snvoc:id ?frId.
+              FILTER(?frId != ?rootId)
+              ?fr snvoc:firstName "Adriaen".
+              BIND(IF((COALESCE(?distOneInner, 4 )) < 4 , 1 , IF((COALESCE(?distTwoInner, 4 )) < 4 , 2 , 3 )) AS ?distInner)
+            }
+            GROUP BY ?fr
+          }
+          ?fr snvoc:email ?email.
+        }
+        GROUP BY ?fr ?dist
+      }
+      ?fr snvoc:speaks ?language.
+    }
+    GROUP BY ?fr ?emails ?dist
+  }
+  ?fr snvoc:id ?frId;
+    snvoc:lastName ?last;
+    snvoc:birthday ?bday;
+    snvoc:isLocatedIn ?basedURI.
+  ?basedURI foaf:name ?based.
+  ?fr snvoc:creationDate ?since;
+    snvoc:gender ?gen;
+    snvoc:locationIP ?locationIP;
+    snvoc:browserUsed ?browser.
+  OPTIONAL {
+    {
+      SELECT (?frInner AS ?frInnerUni) (GROUP_CONCAT(CONCAT(?uniName, " ", xsd:string(?classYear), " ", ?uniCountry); SEPARATOR = ", ") AS ?studies) WHERE {
+        SELECT DISTINCT ?frInner ?uniName ?classYear ?uniCountry WHERE {
+          ?frInner rdf:type snvoc:Person;
+            snvoc:studyAt ?study.
+          ?study snvoc:hasOrganisation ?uni.
+          ?uni foaf:name ?uniName.
+          ?study snvoc:classYear ?classYear.
+          ?uni (snvoc:isLocatedIn/foaf:name) ?uniCountry.
+        }
+      }
+      GROUP BY ?frInner
+    }
+    ?frInnerUni snvoc:id ?frInnerUniId.
+    FILTER(?frId = ?frInnerUniId)
+  }
+  OPTIONAL {
+    {
+      SELECT (?frInner AS ?frInnerComp) (GROUP_CONCAT(CONCAT(?companyName, " ", xsd:string(?workFrom), " ", ?companyCountry); SEPARATOR = ", ") AS ?jobs) WHERE {
+        SELECT DISTINCT ?frInner ?companyName ?workFrom ?companyCountry WHERE {
+          ?frInner rdf:type snvoc:Person;
+            snvoc:workAt ?work.
+          ?work snvoc:hasOrganisation ?company;
+            snvoc:workFrom ?workFrom.
+          ?company (snvoc:isLocatedIn/foaf:name) ?companyCountry;
+            foaf:name ?companyName.
+        }
+      }
+      GROUP BY ?frInner
+    }
+    ?frInnerComp snvoc:id ?frInnerCompId.
+    FILTER(?frId = ?frInnerCompId)
+  }
+}
+GROUP BY ?frId ?last ?bday ?since ?gen ?browser ?locationIP ?based ?studies ?jobs ?emails ?languages
+ORDER BY (?distanceFromPerson) (?last) (?frId)
+LIMIT 20

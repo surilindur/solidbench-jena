@@ -1,0 +1,74 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "firstName",
+      "lastName",
+      "friendshipCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Abdullah"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-12-15T02:34:43.085Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Koksal"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811254"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Karl"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-15T07:23:49.104Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Muller"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278291"
+        }
+      },
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Ibrahim Bare"
+        },
+        "friendshipCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-22T12:30:57.947Z"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Ousmane"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256077"
+        }
+      }
+    ]
+  }
+}

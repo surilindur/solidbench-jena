@@ -1,0 +1,29 @@
+{
+  "head": {
+    "vars": [
+      "locationIp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "195.20.151.175"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "67.224.194.153"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "2.202.173.120"
+        }
+      }
+    ]
+  }
+}

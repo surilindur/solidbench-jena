@@ -1,0 +1,28 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "firstName",
+      "lastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "firstName": {
+          "type": "literal",
+          "value": "Abdul-Malik"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Binalshibh"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022574"
+        }
+      }
+    ]
+  }
+}

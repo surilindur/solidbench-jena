@@ -1,0 +1,112 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Gamal Abdel Nasser, Israeli victoryAbout Kingdom of Serbia,  replaced by thAbout"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Arnold Schwarzenegger,  17, 2003, to serve the remainder of Davis's term. Schwarzenegger was then re-elected on Nov"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "duh"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Kateryna Bondarenko, n singles and doubles are World No. 29 anAbout Singapore,  world to do business. The country "
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Celia Cruz, sful salsa performers of the 20th century, having earned twenty-three gold al"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Ferdinand Marcos, tism, nepotism, political repression, and humAbout French coloni"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000015393162788865/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Andrew Jackson, ed, undemocratic aAbout Chaka Khan, till a member of tAbout Cher"
+        }
+      }
+    ]
+  }
+}

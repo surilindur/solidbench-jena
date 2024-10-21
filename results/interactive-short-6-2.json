@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "68719491952"
+        },
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of K. Bose"
+        },
+        "moderatorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "moderatorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "moderatorLastName": {
+          "type": "literal",
+          "value": "Bose"
+        }
+      }
+    ]
+  }
+}

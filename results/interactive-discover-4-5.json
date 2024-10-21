@@ -1,0 +1,89 @@
+{
+  "head": {
+    "vars": [
+      "locationName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Morocco"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Turkey"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Cameroon"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "England"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Mongolia"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Singapore"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "locationName": {
+          "type": "literal",
+          "value": "Sweden"
+        },
+        "messages": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      }
+    ]
+  }
+}

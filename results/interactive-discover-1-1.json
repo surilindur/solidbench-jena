@@ -1,0 +1,109 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-20T03:48:53.147Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792151044"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-03T10:23:21.946Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795586"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-05T05:21:15.452Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412316860440"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-07T07:41:27.262Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072795511"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-02-14T20:30:21.451Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-08-17T06:05:40.595Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475290624"
+        }
+      }
+    ]
+  }
+}

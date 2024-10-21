@@ -1,0 +1,122 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "ATLiens"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Andrey_Kolmogorov"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Aurangzeb"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Bertolt_Brecht"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Bitches_Brew"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Brazil"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Byelorussian_Soviet_Socialist_Republic"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Dennis_Hopper"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Diocletian"
+        }
+      },
+      {
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagName": {
+          "type": "literal",
+          "value": "Edgar_Rice_Burroughs"
+        }
+      }
+    ]
+  }
+}

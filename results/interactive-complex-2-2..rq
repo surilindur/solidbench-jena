@@ -1,0 +1,31 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+SELECT (?frId AS ?personId) (?first AS ?personFirstName) (?last AS ?personLastName) ?messageId (?content AS ?messageContent) (?creationDate AS ?messageCreationDate) WHERE {
+  VALUES ?type {
+    snvoc:Comment
+    snvoc:Post
+  }
+  {
+    SELECT DISTINCT ?fr WHERE {
+      <http://localhost:3000/pods/00000010995116278647/profile/card#me> rdf:type snvoc:Person.
+      ?fr rdf:type snvoc:Person.
+      <http://localhost:3000/pods/00000010995116278647/profile/card#me> ((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson)) ?fr.
+    }
+  }
+  ?message snvoc:hasCreator ?fr;
+    rdf:type ?type.
+  {
+    { ?message snvoc:content ?content. }
+    UNION
+    { ?message snvoc:imageFile ?content. }
+  }
+  ?message snvoc:creationDate ?creationDate;
+    snvoc:id ?messageId.
+  FILTER(?creationDate <= "2012-08-28T00:00:00.000Z"^^xsd:dateTime)
+  ?fr snvoc:firstName ?first;
+    snvoc:lastName ?last;
+    snvoc:id ?frId.
+}
+ORDER BY DESC (?creationDate) (?message)
+LIMIT 20

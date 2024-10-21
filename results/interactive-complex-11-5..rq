@@ -1,0 +1,25 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT (?frId AS ?personId) (?first AS ?personFirstName) (?last AS ?personLastName) (?orgName AS ?organizationName) (?startYear AS ?organizationWorkFromYear) WHERE {
+  {
+    SELECT DISTINCT ?fr ?frId WHERE {
+      <http://localhost:3000/pods/00000032985348834036/profile/card#me> rdf:type snvoc:Person;
+        snvoc:id ?rootId;
+        ((((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))?)/((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))) ?fr.
+      ?fr snvoc:id ?frId.
+      FILTER(?frId != ?rootId)
+    }
+  }
+  ?fr snvoc:workAt ?work.
+  ?work snvoc:workFrom ?startYear.
+  FILTER(?startYear < 2009 )
+  ?work snvoc:hasOrganisation ?org.
+  ?org foaf:name ?orgName;
+    snvoc:isLocatedIn ?country.
+  ?country foaf:name "Uruguay".
+  ?fr snvoc:firstName ?first;
+    snvoc:lastName ?last.
+}
+ORDER BY (?startYear) (?frId) DESC (?orgName)
+LIMIT 10

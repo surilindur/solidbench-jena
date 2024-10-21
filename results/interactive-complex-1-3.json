@@ -1,0 +1,1105 @@
+{
+  "head": {
+    "vars": [
+      "friendId",
+      "friendLastName",
+      "distanceFromPerson",
+      "friendBirthday",
+      "friendCreationDate",
+      "friendGender",
+      "friendBrowserUsed",
+      "friendLocationIp",
+      "friendEmails",
+      "friendLanguages",
+      "friendCityName",
+      "friendUniversities",
+      "friendCompanies"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1983-07-15"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Anqing"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Air_China 2005 China, Wuhan_Airlines 2005 China, Chang'an_Airlines 2006 China, Spring_Airlines 2006 China, Guizhou_Airlines 2005 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-12-22T03:08:15.963Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun24189255812657@yahoo.com, Jun24189255812657@gmail.com, Jun24189255812657@gmx.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255812657"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.203.198.207"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Xi'an_Polytechnic_University 2004 Xi'an"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1980-03-23"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Hefei"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Shenzhen_Airlines 2000 China, Air_China_Cargo 2001 China, United_Eagle_Airlines 2000 China, China_Southern_Airlines 2000 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-09-10T03:50:55.636Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun21990232557038@yahoo.com, Jun21990232557038@gmail.com, Jun21990232557038@gmx.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232557038"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "He"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.28.102.211"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Xi'an_Polytechnic_University 2000 Xi'an"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1983-06-19"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Osaka"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-07-01T19:47:52.978Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun17592186045019@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186045019"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, ja"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Ito"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "27.118.2.33"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Hachinohe_Junior_College 2005 Hachinohe"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1986-08-14"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Internet Explorer"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Chiyoda"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Air_Next 2009 Japan, Air_Hokkaido 2008 Japan"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-17T10:09:57.251Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun32985348833702@gmail.com, Jun32985348833702@zoho.com, Jun32985348833702@yahoo.com, Jun32985348833702@gmx.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833702"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, ja"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Kato"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "27.111.77.194"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Sōka_University 2008 Hachiōji"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1987-04-20"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Dangyang"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Shenzhen_Airlines 2009 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-06-23T16:37:24.350Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun17592186044857@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186044857"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Li"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "27.50.46.217"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Hangzhou_International_School 2009 Hangzhou"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1987-10-07"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Bei'an"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Tianjin_Airlines 2008 China, Air_China_Cargo 2007 China, China_Postal_Airlines 2008 China, United_Eagle_Airlines 2007 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-12-29T07:56:39.032Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun24189255811079@yahoo.com, Jun24189255811079@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811079"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Li"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.29.220.142"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Shenyang_Conservatory_of_Music 2006 Shenyang"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1987-10-21"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Nanchong"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Spring_Airlines 2009 China, Chongqing_Airlines 2009 China, Sichuan_Airlines 2010 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-05-09T05:13:16.555Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun4398046511870@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046511870"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Wang"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.204.167.114"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "College_of_Traditional_Chinese_Medicine_of_Xinjiang_Medical_University 2008 Ürümqi"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1983-07-03"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Yokohama"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-12-10T20:29:43.883Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun10995116279040@gmail.com, Jun10995116279040@gmx.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116279040"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, ja"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Yamada"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "27.110.117.214"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1989-05-30"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Internet Explorer"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Feicheng"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "China_Northern_Airlines 2009 China, Kunming_Airlines 2011 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-09-08T09:50:23.141Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun21990232556482@yahoo.com, Jun21990232556482@zoho.com, Jun21990232556482@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556482"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Zhu"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.1.22.34"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "China_Europe_International_Business_School 2009 Shanghai"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1987-12-12"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Gongyi"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Great_Wall_Airlines 2009 China, West_Air_(People's_Republic_of_China) 2010 China, Tianjin_Airlines 2010 China, Mahan_Air 2010 Iran, Guizhou_Airlines 2010 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-11T12:58:10.694Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun26388279068269@gmx.com, Jun26388279068269@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279068269"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Zhu"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.189.111.251"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Southwest_University 2008 Chongqing"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1981-04-07"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Chizhou"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Chang'an_Airlines 2011 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-05T03:14:06.553Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun8796093022435@gmx.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022435"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Chen"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.207.98.196"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1983-05-04"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Dalian"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Lao_Air 2006 Laos, Sichuan_Airlines 2004 China, China_Northwest_Airlines 2005 China, Chongqing_Airlines 2005 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-24T20:26:47.705Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun13194139533469@gmail.com, Jun13194139533469@yahoo.com, Jun13194139533469@zoho.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533469"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Chen"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.2.7.208"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Hangzhou_International_School 2004 Hangzhou"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1984-04-22"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Safari"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Nanning"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "China_Flying_Dragon_Aviation 2005 China, Toumaï_Air_Tchad 2003 Chad, Tianjin_Airlines 2004 China, Okay_Airways 2003 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-14T04:52:49.439Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun6597069767359@gmx.com, Jun6597069767359@hotmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767359"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Li"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "27.29.124.155"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Shenyang_Aerospace_University 2003 Shenyang"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1982-04-24"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Dandong"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Shandong_Airlines 2004 China, United_Eagle_Airlines 2003 China, Chang'an_Airlines 2004 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-06-26T20:00:44.538Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun30786325578075@yahoo.com, Jun30786325578075@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325578075"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Li"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.92.53.196"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "China_Jiliang_University 2003 Hangzhou"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1988-03-27"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Opera"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Shanxi"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Okay_Airways 2007 China, Air_China_Cargo 2008 China, Shandong_Airlines 2008 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-07T23:03:52.355Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun26388279068220@gmail.com, Jun26388279068220@gmx.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279068220"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Wang"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.12.242.179"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Hangzhou_Dianzi_University 2007 Hangzhou"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1980-10-09"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Cangzhou"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Chang'an_Airlines 2003 China, Great_Wall_Airlines 2004 China, Shanghai_Airlines_Cargo 2003 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-07-19T10:27:00.805Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun19791209300572@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300572"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Xu"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "27.98.216.57"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Hangzhou_International_School 2002 Hangzhou"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1987-01-25"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Cenxi"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Air_China_Cargo 2007 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-30T05:54:57.910Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun30786325578060@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325578060"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.2.0.161"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Xi'an_Polytechnic_University 2005 Xi'an"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1988-06-25"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Internet Explorer"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Chishui"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "China_Yunnan_Airlines 2010 China, United_Eagle_Airlines 2009 China, Tibet_Airlines 2009 China, East_Star_Airlines 2008 China, Shanghai_Airlines_Cargo 2008 China"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-23T17:01:59.319Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun13194139534915@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139534915"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.10.15.31"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Yangtze_Normal_University 2008 Chongqing"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1984-12-09"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Dali"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-08-07T22:37:30.150Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Jun19791209300990@gmx.com, Jun19791209300990@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300990"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en, zh"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "1.10.21.91"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Anhui_University_of_Science_and_Technology 2004 Huainan"
+        }
+      }
+    ]
+  }
+}

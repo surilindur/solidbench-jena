@@ -1,0 +1,23 @@
+{
+  "head": {
+    "vars": [
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Paul Martin, 988 electiAbout François Mitterrand, de. They lAbout Indi"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-24T18:33:07.152Z"
+        }
+      }
+    ]
+  }
+}

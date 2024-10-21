@@ -1,0 +1,232 @@
+{
+  "head": {
+    "vars": [
+      "forumTitle",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Samuel_L._Jackson in Tagbilaran"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for David_Lloyd_George in Sampaloc"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Keith_Richards in Dehradun"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Saddam_Hussein in Kassel"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Muttiah_Muralitharan in Coimbra"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Arnold_Schwarzenegger in Dehradun"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Kurt_Aland in Baiyin"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Benjamin_Disraeli in Pudong"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Bertolt_Brecht in Moravia"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Mahathir_Mohamad in Pedro_Escobedo"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Hilary_Duff in Belfast"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Paul_Keres in Antananarivo"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Heinz_Guderian in Dire_Dawa"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Ray_Bradbury in Taxila"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Louis_Philippe_I in Padang"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Henry_VI_of_England in Luanshya"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Billy_Hughes in Narathiwat"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Charles_Dickens in Moravia"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for John_Wesley in La_Punta"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Agatha_Christie in Pathum_Thani"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      }
+    ]
+  }
+}

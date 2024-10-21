@@ -1,0 +1,596 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "commentCreationDate",
+      "commentId",
+      "commentContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Voltaire,  broke them. As a satirical polemicist,About Vietnam, rn com"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T03:39:32.368Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511694432"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Arturo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209301132"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Contreras"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Leonardo da Vinci,  to us superhuman, the man himself mysterious aAbout Vietnam, iousl"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T20:15:14.901Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511694429"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Antonio"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023346"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Ojeda"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T18:55:23.791Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511694428"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jose"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302322565"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Gonzalez"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-05T04:05:02.704Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303449"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Otto"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811103"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Richter"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Johann Sebastian Bach, harpsichord, and his brother, Johann ChAbout Jan"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-04T21:10:12.080Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303452"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Anh"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023234"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Ha"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-04T12:29:04.852Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303451"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Hao"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556725"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhu"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-04T11:55:24.482Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303450"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Alfred Sorongo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022647"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Leakey"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-25T11:44:07.446Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792470024"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Esti"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162790347"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Verghese"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-24T03:33:36.491Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792316430"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Joao"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302323722"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Oliveira"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "duh"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-24T00:39:09.808Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792316426"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jae-Jin"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046511180"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Park"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Anthony of Padua, s born to a wealthy family in Lisbon, PAbout Paul Mc"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-23T23:40:58.497Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792316423"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Alfred"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834375"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Hoffmann"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-23T19:39:02.786Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792316427"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Mee"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1259"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Vongvichit"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Northern Ireland, all. Northern Ireland competes separately at the Common"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-23T18:15:57.365Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792316428"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Abhishek"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300081"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-23T17:54:28.503Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792316424"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Kamal"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023257206"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Aziz"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Sarah McLachlan, rom 1997 to About Marvin Gaye,  Terrell. HiAbout Richard Rodgers,  know"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-22T17:58:19.412Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792178244"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Guillermo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767348"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Irigoyen"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-09T21:10:36.407Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303254"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Otto"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256849"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Herzigová"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Johann Sebastian Bach,  and his cantatas, chorales, partitas, passAbout Willia"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-09T13:31:59.093Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303252"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Zeki"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300402"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Arikan"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-09T05:21:42.835Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303261"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Ion"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232555771"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bologan"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-09T04:59:55.374Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303249"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Alyaksey"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255812639"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Akhiezer"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-09T01:25:43.886Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792303251"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Marko"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255812535"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Brajkovič"
+        }
+      }
+    ]
+  }
+}

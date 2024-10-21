@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "tagNames",
+      "replyCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jie"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811277"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Wei"
+        },
+        "replyCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "tagNames": {
+          "type": "literal",
+          "value": "Tiger_Woods"
+        }
+      }
+    ]
+  }
+}

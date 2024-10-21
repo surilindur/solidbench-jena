@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792163331"
+        },
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of Javed Khan"
+        },
+        "moderatorFirstName": {
+          "type": "literal",
+          "value": "Javed"
+        },
+        "moderatorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833438"
+        },
+        "moderatorLastName": {
+          "type": "literal",
+          "value": "Khan"
+        }
+      }
+    ]
+  }
+}

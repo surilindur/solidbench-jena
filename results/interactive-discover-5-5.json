@@ -1,0 +1,131 @@
+{
+  "head": {
+    "vars": [
+      "locationIp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "41.92.31.35"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "91.216.2.36"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "77.237.75.231"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "85.159.76.149"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "46.21.207.11"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "202.0.80.136"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "31.24.137.221"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "31.210.237.252"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "62.116.203.5"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "41.190.224.90"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "46.106.209.170"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "41.186.113.189"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "31.47.85.195"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "103.1.84.50"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "27.123.212.50"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "79.140.175.125"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "31.172.170.162"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "41.76.209.117"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "27.109.91.215"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "46.227.75.61"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "head": {
+    "vars": [
+      "friendId",
+      "friendLastName",
+      "distanceFromPerson",
+      "friendBirthday",
+      "friendCreationDate",
+      "friendGender",
+      "friendBrowserUsed",
+      "friendLocationIp",
+      "friendEmails",
+      "friendLanguages",
+      "friendCityName",
+      "friendUniversities",
+      "friendCompanies"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1986-04-09"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Internet Explorer"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "Bristol"
+        },
+        "friendCompanies": {
+          "type": "literal",
+          "value": "Airtours_International_Airways 2006 United_Kingdom, British_Mediterranean_Airways 2007 United_Kingdom, Flybe 2007 United_Kingdom"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-12-01T16:23:42.426Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Ian10995116279328@gmx.com, Ian10995116279328@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "male"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116279328"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "en"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Smith"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "199.103.115.201"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Faculty_of_Health 2005 Birmingham"
+        }
+      }
+    ]
+  }
+}

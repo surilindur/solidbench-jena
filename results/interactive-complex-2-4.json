@@ -1,0 +1,596 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "messageId",
+      "messageContent",
+      "messageCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Zine El Abidine Ben Ali, ySenior Intelligence School in Maryland School for Anti-Aircraft Field Artillery in Texas. Religion Sunni Islam Zine El Abidine Ben Ali is a Tunisian political figure who was t"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T23:11:04.138Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353445120"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T22:06:16.679Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353553302"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bose"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "fine"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T22:02:02.016Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353276051"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T15:58:59.299Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353420155"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533618"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Daisy Bell, me your answer doAbout Bukovina, historical regionAbout Beat Ag"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T14:06:04.637Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353399035"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Hoang Yen"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186045864"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Pham"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T10:17:56.255Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353399037"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T03:23:22.385Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353339918"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533618"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-02T02:32:32.718Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353276061"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "maybe"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-01T15:57:55.687Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353511090"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bose"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-01T09:41:54.881Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353429200"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-01T06:39:13.822Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353504389"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-01T02:03:09.360Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353491724"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533618"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Hamid Karzai,  Conference on Afghanistan in Germany, Karzai was selectedAbout The Return of the Los Palmas 7"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-31T23:58:44.970Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353499890"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-31T16:06:46.356Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353499877"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-31T10:37:54.541Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353491721"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533618"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-31T06:52:40.129Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353278697"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-31T06:33:33.507Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353278706"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533618"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Augustine of Hippo, s a spiritual City of God, distinct from tAbout Serbia an"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-31T05:22:43.995Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353278699"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "The"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811566"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kunda"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-30T19:42:33.178Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353528339"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bose"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-30T14:46:30.838Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353528325"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bose"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "The Emirate of Sicily was an Islamic state on the island of Sicily, which existed f"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-30T09:07:47.938Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072998145"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Ali"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067147"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Karimi"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072998132"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-24T02:06:30.397Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487399"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487395"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Adam Smith, opher and a pioneer of political economy. One of the key figures of the ScotAbout James A. Garfield, os was James' father's half bro"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-02T13:44:21.829Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792244478"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Anders"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278468"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Andersson"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792244472"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "duh"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-14T17:45:52.064Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633814361"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Anders"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278468"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Andersson"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633814358"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-30T14:53:30.135Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072998140"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Ali"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067147"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Karimi"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072998132"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Monaco, ch: Grand Prix de Monaco) is a Formula OneAbout The Gambia, anks to "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-04-30T10:53:40.607Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036440719"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036440717"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-02-22T03:38:42.210Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634003200"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Michal"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209301592"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Kaminski"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824634003194"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-23T13:02:11.676Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487513"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487498"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-12-29T20:08:34.306Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487213"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487199"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-05T21:10:22.073Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878011002"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878010995"
+        }
+      }
+    ]
+  }
+}

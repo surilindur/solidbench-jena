@@ -1,0 +1,112 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Queen Victoria, f their 34 grandchildren who suAbout Empire State of Mind, to Jay-Z "
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Léopold Sédar Senghor, 2001) was a Senegalese poeAbout Sky Blue Sky, a"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "duh"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "thx"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Muammar Gaddafi, held a largely symboAbout Me Against the World, edly more confessionAbout Mystery Girl, y re"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Joe Strummer,  who was the coAbout This Is Country Music, hth single"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000006597069766993/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About John Denver, began his music career in folk music groups in the late 1960s. His greatest commercial success was as a solo singer. Throughout his life Denver recorded"
+        }
+      }
+    ]
+  }
+}

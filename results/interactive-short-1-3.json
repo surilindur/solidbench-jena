@@ -1,0 +1,55 @@
+{
+  "head": {
+    "vars": [
+      "firstName",
+      "lastName",
+      "birthday",
+      "locationIP",
+      "browserUsed",
+      "cityId",
+      "gender",
+      "creationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "birthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1985-08-02"
+        },
+        "browserUsed": {
+          "type": "literal",
+          "value": "Firefox"
+        },
+        "cityId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "306"
+        },
+        "creationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-04-23T22:52:26.582Z"
+        },
+        "firstName": {
+          "type": "literal",
+          "value": "A."
+        },
+        "gender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "lastName": {
+          "type": "literal",
+          "value": "Rao"
+        },
+        "locationIP": {
+          "type": "literal",
+          "value": "49.202.188.25"
+        }
+      }
+    ]
+  }
+}

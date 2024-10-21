@@ -1,0 +1,596 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "commentCreationDate",
+      "commentId",
+      "commentContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Robert Bourassa, ates, first About Maimonides, ng status asAbout Johnny Carson, awarded"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-12T23:37:24.043Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511998009"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Peng"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186044737"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Liu"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "no"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-12T15:50:57.322Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511998007"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Bingbing"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209301329"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Chen"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T00:37:24.822Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511995228"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Eduardo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768004"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Rodriguez"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T22:46:14.597Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511995230"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Ge"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300852"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Wang"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T19:05:53.547Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511995223"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Robert"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300405"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Boulanger"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T12:03:17.127Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511995232"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Mahinda"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811381"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "De Silva"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T09:16:25.267Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511995225"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Chris"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811663"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Hall"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Dr. Dre, et Me Ride. In 1996, he left Death Row to esAbout Hand in Glove, cords."
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-07T04:07:16.833Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792329118"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Mohamed"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348833794"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Ben Dhifallah"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Dr. Dre, ts, while occasionally contributing vocals to oAbout Closer to the Heart, live"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-07T00:53:32.016Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792329114"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Volodymyr"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139534913"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kofler"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-05T09:51:46.329Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792314471"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jorge"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069766720"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Araujo Castro"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-28T12:26:07.166Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792344298"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Binh"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300793"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Nguyen"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-28T01:04:26.909Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792344296"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Paolo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278973"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Colombo"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Arnold Schwarzenegger, and politician. SchwarzeneAbout The End Is the "
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T18:18:45.887Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792344306"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jack"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023237"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Evans"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Arnold Schwarzenegger, m icon. He was nicknamed the Austrian Oak and About Neo-Assyr"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T18:11:07.571Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792344300"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Muhammad"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209300595"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Khan"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T00:58:31.565Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792200197"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Karthik"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023560"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kapoor"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-26T22:10:21.569Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792343589"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Paolo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278973"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Colombo"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-26T16:33:10.325Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792200198"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Wei"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556903"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhu"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "no"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-26T15:48:59.437Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792200200"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Paolo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278973"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Colombo"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Majapahit, ring the era of Hayam Wuruk, whose reign from 1350 to 1389 mark"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-21T13:52:38.633Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792476084"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Lin"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067442"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Li"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Charles V, Holy Roman Emperor, own by Manuel I of Portugal. The commercial sAbout "
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-21T13:07:39.839Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792476094"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Bing"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278236"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Liu"
+        }
+      }
+    ]
+  }
+}

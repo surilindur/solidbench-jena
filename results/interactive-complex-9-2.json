@@ -1,0 +1,596 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "messageId",
+      "messageContent",
+      "messageCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T23:50:28.038Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792187884"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Paolo"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278973"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Colombo"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Elton John, ebruary 1971 by the RIAA. In the same year, it was nominated fo"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T23:41:51.385Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792423963"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Kenji"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325577859"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Matsudaira"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T23:40:57.519Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792483642"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279066928"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T23:12:27.367Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792246446"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Conor"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767067"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Campbell"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Muammar Gaddafi, mmonly known as Muammar Gaddafi  /ˈmoʊ. əmɑr ɡəˈdɑːfi/ or Colonel Gaddafi, waAbout Patti Smith,  Roll Hall of Fame. On November 17"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:50:19.804Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792423964"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Kenji"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "30786325577859"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Matsudaira"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Nice & Slow, on the Billboard Hot 100 singles chart in early 1998. However"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:46:29.443Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792246441"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Benhalima"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533574"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Ferrer"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Just Want to Be Your Everything, Barry is the only credited writer for "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:40:50.496Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792246447"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Gregorio"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "407"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Manalo"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Saint George, nt GeorgAbout Marc Gicquel, icquel iAbout George Washington, nes "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:31:21.465Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792516930"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Amit"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069768056"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kumar"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:25:45.199Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792514996"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Grigore"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302322548"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bologan"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:25:15.565Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792369465"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Rafael"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139534982"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Alves"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Scotland, nburgh was the hub of tAbout Vietnam, troops, army corps, milAbout Democ"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T22:14:32.617Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792516904"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Chau"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302323020"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Ho"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "thanks"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:49:29.496Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792500840"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Faisal"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1079"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Qureshi"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:47:45.046Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792246435"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Gregorio"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256081"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Reyes"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:46:29.435Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792226776"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Andrei"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279066885"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kahnovich"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "fine"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:45:23.724Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792296059"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Emperor of Brazil"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1564"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Silva"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Over the Rainbow,  a place, Toto? There must be. It's not a place you can get to "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:43:13.272Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792226774"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Benedict"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278915"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Judy Garland,  Academy Award and won a Golden Globe Award, as well as G"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:31:42.114Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792246436"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Li"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1161"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:23:18.491Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792246449"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Asyifa"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046512696"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Anwar"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:22:28.826Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792517711"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Ali"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "987"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Diori"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-07-27T21:16:42.894Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792272604"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Chen"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162790289"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      }
+    ]
+  }
+}

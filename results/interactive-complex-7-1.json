@@ -1,0 +1,798 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "likeCreationDate",
+      "messageId",
+      "messageContent",
+      "minutesLatency",
+      "isNew"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-07T23:38:20.109Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About David Foster, llace's unfinished novel, About Paul McCartney,  as a solo artist and as aAbout "
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792374999"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "57622"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Anh"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "32985348834301"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Nguyen"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-01T14:54:51.019Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "5105"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Shweta"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556992"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kumar"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-01T01:46:04.285Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4317"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162790476"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Rao"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-01T00:54:35.173Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4265"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Arjun"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116278184"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Kumar"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-31T14:41:23.954Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3652"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Arjun"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556605"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Sen"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-31T11:01:41.910Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3432"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Rahul"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139534142"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Reddy"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-31T08:41:02.450Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3292"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Anupam"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023493"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Reddy"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-30T15:27:58.487Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2259"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Arjun"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255811940"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Khan"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-30T12:25:44.355Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2076"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Emperor of Brazil"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067534"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Dom Pedro II"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-30T10:47:48.418Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1978"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Deepak"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-30T05:47:08.827Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1678"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Shweta"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533535"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-30T02:31:55.386Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo893353421832.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353421832"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "168543"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "John"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067635"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Sheikh"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T22:40:33.526Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1251"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "A."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162790406"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Sharma"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T18:40:43.787Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1011"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Karim"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023060"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Akhmadiyeva"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T18:33:12.141Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1004"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "John"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046511667"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Chopra"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T14:15:59.910Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Srivijaya, dated 16 June 682. The kingdom ceased to exiAbout Kingdom of Hanover,"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792465816"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1033"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jack"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "4398046512376"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Wilson"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T13:36:50.406Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "707"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256816"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Bose"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T10:15:28.898Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About I Only Have Eyes for You, ou is episode 19 of season two of Buffy the Vampire Sl"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792399080"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "506"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Anand"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279067551"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Rao"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T01:53:51.200Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Bertolt Brecht,  – 14 August 1956) was a German poet, playwright, and theatre director. An influent"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "962072804153"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "84681"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Zheng"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022764"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Xu"
+        }
+      },
+      {
+        "isNew": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "likeCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-29T00:44:34.886Z"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "photo893353421832.jpg"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353421832"
+        },
+        "minutesLatency": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "166995"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "David"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302322631"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Fenter"
+        }
+      }
+    ]
+  }
+}

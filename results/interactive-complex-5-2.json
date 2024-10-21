@@ -1,0 +1,232 @@
+{
+  "head": {
+    "vars": [
+      "forumTitle",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 18 of Gregorio Manalo"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 29 of Hans Johansson"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 31 of Peter Taylor"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 1 of Claude Radafison"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 10 of Emperor of Brazil Silva"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 16 of Mee Vongvichit"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of Cesar Gonzales"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of Kamal Aziz"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 2 of Rafael Magomaev"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 8 of Maria Alkaios"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 14 of Ashley Coetzee"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 16 of Peter Taylor"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 10 of Fritz Richter"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 29 of Kamal Aziz"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of Jesus Mendez"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of Wilhelm Schmidt"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 9 of Fritz Fischer"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 2 of Emperor of Brazil Silva"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 32 of Heinz Frank"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "forumTitle": {
+          "type": "literal",
+          "value": "Album 20 of Gyula Laszlo"
+        },
+        "postCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      }
+    ]
+  }
+}

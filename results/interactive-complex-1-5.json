@@ -1,0 +1,131 @@
+{
+  "head": {
+    "vars": [
+      "friendId",
+      "friendLastName",
+      "distanceFromPerson",
+      "friendBirthday",
+      "friendCreationDate",
+      "friendGender",
+      "friendBrowserUsed",
+      "friendLocationIp",
+      "friendEmails",
+      "friendLanguages",
+      "friendCityName",
+      "friendUniversities",
+      "friendCompanies"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1986-03-16"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Opera"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "The_Hague"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-03T13:59:34.277Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Adriaen13194139533432@gmail.com, Adriaen13194139533432@yahoo.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533432"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "nl, en"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Jong"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "192.101.114.88"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Utrecht_University_School_of_Economics 2004 Utrecht"
+        }
+      },
+      {
+        "distanceFromPerson": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "friendBirthday": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1985-10-27"
+        },
+        "friendBrowserUsed": {
+          "type": "literal",
+          "value": "Chrome"
+        },
+        "friendCityName": {
+          "type": "literal",
+          "value": "The_Hague"
+        },
+        "friendCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-03-27T11:40:28.471Z"
+        },
+        "friendEmails": {
+          "type": "literal",
+          "value": "Adriaen2199023255871@yahoo.com, Adriaen2199023255871@gmail.com"
+        },
+        "friendGender": {
+          "type": "literal",
+          "value": "female"
+        },
+        "friendId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023255871"
+        },
+        "friendLanguages": {
+          "type": "literal",
+          "value": "nl, en"
+        },
+        "friendLastName": {
+          "type": "literal",
+          "value": "Dam"
+        },
+        "friendLocationIp": {
+          "type": "literal",
+          "value": "46.129.206.216"
+        },
+        "friendUniversities": {
+          "type": "literal",
+          "value": "Hotelschool_The_Hague 2005 The_Hague"
+        }
+      }
+    ]
+  }
+}

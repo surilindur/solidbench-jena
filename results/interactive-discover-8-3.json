@@ -1,0 +1,112 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "no"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Rumi, rders. His original works are widely read in their originalAbout Harrison Ford, m Registry. In 1997, Ford"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "roflol"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "maybe"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Muammar Gaddafi, her Leader of the LibAbout New France, ana. The Treaty of UtAbout Tanganyika, "
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "I see"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Hamid Karzai, by prominent Afghan political figures to serAbout Babe Ruth, MLB) "
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Alanis Morissette, Award nomination.About Neil Gaiman, ry and the CarnegAbout"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Toru Takemitsu, ental and orchestral About Sergei Rachmaninoff, influences o"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000017592186045646/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        }
+      }
+    ]
+  }
+}

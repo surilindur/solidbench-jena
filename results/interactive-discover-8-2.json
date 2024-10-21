@@ -1,0 +1,112 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "fine"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Kurt Aland,  Research) in Münster and served as its first director for many years (1959–83). He was one of the p"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "ok"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Michael Bublé, board 200 alAbout Lebanon, , the countrAbout All the Lost Souls, ake dur"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Hassan II of Morocco, e Lalla Abla bint TAbout Ecuador, ator, from w"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "no way!"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Charles Gounod, ber or 18 October 1893) was a French composer, known for About Lord Byron, ser, took place "
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Charles Gounod, was a French composer, known for his Ave Maria as wAbout Katy Perry, California"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Cleopatra VII, patra VII Philopator, known to About Pliny the Younger, e under Traja"
+        }
+      },
+      {
+        "creator": {
+          "type": "uri",
+          "value": "http://localhost:3000/pods/00000019791209301592/profile/card#me"
+        },
+        "messageContent": {
+          "type": "literal",
+          "value": "About Liza Minnelli, ger and actress JudyAbout My Life Would Suck Without You,"
+        }
+      }
+    ]
+  }
+}

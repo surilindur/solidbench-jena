@@ -1,0 +1,141 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Pamela Anderson, ebruary 1990. For a time, she was known as PamelaAbout Alexander the Grea"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-03T06:30:32.844Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633721378"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Pamela Anderson, amela Anderson Lee (or Pamela Lee) after marryAbout C. S. Lewis, man"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-08-30T00:51:38.604Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475291181"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Henri Matisse, on in French About Martin Luther, in the advancAbout Tom Gehrels, is "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-02-03T14:33:20.328Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412316860983"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Sammy Sosa, career home run to become tAbout Horatio Nelson, 1st Viscount Nelson, e of his uncle, Maurice SucAbout Norway, strative subdivisions on twAbout South African Republi"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-25T22:25:58.654Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430774"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Pamela Anderson, or her roles on the television series Home Improvement, Baywatch, and "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-25T01:39:42.720Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430763"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About William Lyon Mackenzie King, derstandingAbout Sammy Sosa,  achieved nAbout Dante Alighieri, ary theorisAbout Use S"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-25T13:23:43.654Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430787"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Pamela Anderson, elevision series Home Improvement, Baywatch, and V.I.P. She was chosen as a Playmate"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-27T05:03:14.834Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430764"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Sammy Sosa, Dominican forAbout Sylvester Stallone, um. Stallone'About Norway, "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-07-25T09:14:43.654Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430773"
+        }
+      }
+    ]
+  }
+}

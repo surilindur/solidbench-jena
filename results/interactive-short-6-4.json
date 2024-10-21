@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597391512"
+        },
+        "forumTitle": {
+          "type": "literal",
+          "value": "Group for Arnold_Schwarzenegger in Dehradun"
+        },
+        "moderatorFirstName": {
+          "type": "literal",
+          "value": "John"
+        },
+        "moderatorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1549"
+        },
+        "moderatorLastName": {
+          "type": "literal",
+          "value": "Kumar"
+        }
+      }
+    ]
+  }
+}

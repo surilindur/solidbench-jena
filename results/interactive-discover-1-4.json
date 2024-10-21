@@ -1,0 +1,237 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, nglish Language and Literature there from 1945 to 1959. He was a clos"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-04-14T09:56:55.363Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036337629"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, ntified as the father of modern fantasy literature—or, more prec"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-02T20:48:08.036Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877907457"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien,  more precisely, of high fantasy. In 2008, The Times ranked him "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-07-18T17:01:31.374Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475291117"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Arnold Schwarzenegger, ected on November 7, 2006, in California's 2006 gubernatorial election, to serve a full term as governor, de"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-07-23T02:11:49.234Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "618475483873"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, kien was appointed a Commander of the Order of the British Empire by Queen Elizabeth II on 28 March 1972. After his death, Tolkien's son Christopher published a series of works based on his father"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-06-16T10:50:58.494Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "549755814369"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, Elizabeth II on 28 March 1972. After his death, Tolkien's son Christopher published a serie"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T05:12:54.815Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511628293"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Arnold Schwarzenegger, nd politician. Schwarzenegger served as the 38th Governor of California from 2003 until 2011. Schwarzenegger began to weight train at the age of 15 years old. He was awarded the title of M"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T05:19:05.256Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792344293"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Garry Kasparov, ed Civil Front movement, and joined as a membAbout Sympathy for th"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-10-18T12:49:46.595Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687194960801"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, sely, of high fantasy. In 2008, The Times ranked him sixth o"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-04T02:28:03.858Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597384119"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, Elizabeth II on 28 March 1972. After his death, Tolkien's son Christopher published a s"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-09-01T13:44:36.070Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "206158430650"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, bit and The Lord of the Rings form a connected body of tales, poems, fictional histories, i"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-10T01:11:27.853Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633721291"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, 72. After his death, Tolkien's son Christopher published a ser"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-06-19T12:05:02.265Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "549755814413"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Freddie Mercury, AIDS on 24 NoveAbout Harrison Ford, t, The FugitiveAbout Akon, osal Rinpoche, "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-05T08:38:30.452Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412317053864"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About J. R. R. Tolkien, 1945 and Merton Professor of English Language and Literature there from 1945 to 1959. He was a "
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-04-03T03:28:16.485Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036337666"
+        }
+      }
+    ]
+  }
+}

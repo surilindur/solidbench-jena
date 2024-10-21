@@ -1,0 +1,85 @@
+{
+  "head": {
+    "vars": [
+      "commentId",
+      "commentContent",
+      "commentCreationDate",
+      "replyAuthorId",
+      "replyAuthorFirstName",
+      "replyAuthorLastName",
+      "replyAuthorKnowsOriginalMessageAuthor"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-21T14:47:04.779Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353277779"
+        },
+        "replyAuthorFirstName": {
+          "type": "literal",
+          "value": "K."
+        },
+        "replyAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279066928"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "replyAuthorLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-21T12:49:26.460Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353277778"
+        },
+        "replyAuthorFirstName": {
+          "type": "literal",
+          "value": "Arjun"
+        },
+        "replyAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556605"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        },
+        "replyAuthorLastName": {
+          "type": "literal",
+          "value": "Sen"
+        }
+      }
+    ]
+  }
+}

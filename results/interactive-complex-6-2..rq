@@ -1,0 +1,25 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT (?tag2Name AS ?tagName) (COUNT(?post) AS ?postCount) WHERE {
+  BIND("Alberto_Fujimori" AS ?tagNameParam)
+  {
+    SELECT DISTINCT ?fr ?frId WHERE {
+      <http://localhost:3000/pods/00000024189255811707/profile/card#me> rdf:type snvoc:Person;
+        snvoc:id ?rootId;
+        ((((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))?)/((snvoc:knows/snvoc:hasPerson)|^(snvoc:knows/snvoc:hasPerson))) ?fr.
+      ?fr snvoc:id ?frId.
+      FILTER(?frId != ?rootId)
+    }
+  }
+  ?post rdf:type snvoc:Post;
+    snvoc:hasCreator ?fr;
+    snvoc:hasTag ?tag1.
+  ?tag1 foaf:name ?tagNameParam.
+  ?post snvoc:hasTag ?tag2.
+  ?tag2 foaf:name ?tag2Name.
+  FILTER(?tag2Name != ?tagNameParam)
+}
+GROUP BY ?tag2Name
+ORDER BY DESC (?postCount) (?tag2Name)
+LIMIT 10

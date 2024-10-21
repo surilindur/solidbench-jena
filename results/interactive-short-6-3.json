@@ -1,0 +1,39 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "481036344061"
+        },
+        "forumTitle": {
+          "type": "literal",
+          "value": "Wall of Esti Verghese"
+        },
+        "moderatorFirstName": {
+          "type": "literal",
+          "value": "Esti"
+        },
+        "moderatorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "15393162790347"
+        },
+        "moderatorLastName": {
+          "type": "literal",
+          "value": "Verghese"
+        }
+      }
+    ]
+  }
+}

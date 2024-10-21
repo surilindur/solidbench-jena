@@ -1,0 +1,596 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "commentCreationDate",
+      "commentId",
+      "commentContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "LOL"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T21:54:57.305Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511722416"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Francis"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "19791209301374"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Santos"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "fine"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T20:24:56.641Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511949734"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Shweta"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556650"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Khan"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T19:41:08.704Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511722418"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jimmy"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279066931"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Tsiranana"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "maybe"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T11:05:49.113Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511722414"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Andrey"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556614"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Hleb"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "Sweet Disposition is a song by Australian indie rock band The Temper Trap.A"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-11T06:36:56.473Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511722421"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jose"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302322565"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Gonzalez"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "duh"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T12:22:17.719Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511771252"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Michael"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "21990232556491"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhao"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Augustine of Hippo, is celebrated 28 August, thAbout Plutarch, apher, ess"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-10T03:26:20.538Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511771250"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Seung-Won"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022410"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Choi"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Al Pacino,  a Woman won him the Academy Award for Best Actor in 1993 after rece"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T23:59:44.420Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511771248"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Yang"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533618"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "great"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-09T20:00:28.560Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1099511771247"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Lei"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093023199"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-28T13:51:53.797Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294986"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "David"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "345"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Herzigová"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-28T01:41:34.807Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294983"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jie"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186044994"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Wang"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Mary I of England, ous differences between them, he attempted to remov"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-28T00:01:49.973Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294985"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Henri"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302323291"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Martens"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "fine"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T23:14:27.157Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294984"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Wei"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "28587302322755"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Huang"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "right"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T21:07:20.401Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294982"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Hao"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "26388279066989"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhou"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-27T13:16:26.315Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294377"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Seung-Won"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "8796093022410"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Choi"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About Augustine of Hippo, stianity. According toAbout Sean Connery, 89, he was procl"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-26T20:47:48.756Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294372"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Luis"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "24189255812361"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Cruz"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "thx"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-26T19:55:57.416Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294374"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Salim Ahmed"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767242"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Binalshibh"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "About William Morris, rks of Geoffrey Chaucer is consAbout Lose Yourself, es, largely dealing with the stAbout Louis XV of "
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-26T15:24:37.285Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792294373"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Abhishek"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "13194139533834"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Singh"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-13T19:08:31.209Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792220958"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Jun"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "10995116279040"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Yamada"
+        }
+      },
+      {
+        "commentContent": {
+          "type": "literal",
+          "value": "duh"
+        },
+        "commentCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-08-12T11:36:57.449Z"
+        },
+        "commentId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792471076"
+        },
+        "personFirstName": {
+          "type": "literal",
+          "value": "Li"
+        },
+        "personId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1161"
+        },
+        "personLastName": {
+          "type": "literal",
+          "value": "Zhang"
+        }
+      }
+    ]
+  }
+}

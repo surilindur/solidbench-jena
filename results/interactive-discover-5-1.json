@@ -1,0 +1,101 @@
+{
+  "head": {
+    "vars": [
+      "locationIp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "119.235.7.103"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "196.20.74.92"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "83.220.193.115"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "204.79.207.127"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "85.158.148.142"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "86.57.175.109"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "41.205.219.188"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "200.73.197.93"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "24.38.132.255"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "31.216.136.54"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "95.153.46.147"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "103.3.211.48"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "62.24.112.101"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "49.246.218.237"
+        }
+      },
+      {
+        "locationIp": {
+          "type": "literal",
+          "value": "42.156.35.41"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "head": {
+    "vars": [
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "duh"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-10-16T01:28:59.770Z"
+        }
+      }
+    ]
+  }
+}

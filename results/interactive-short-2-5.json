@@ -1,0 +1,357 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo893353198416.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-04-05T08:52:00.241Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353198416"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Eli"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767117"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Peretz"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353198416"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo1030792151939.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-09-06T23:00:42.069Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792151939"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Eli"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767117"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Peretz"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1030792151939"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "yes"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-20T08:26:19.121Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633860187"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Alim"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186044425"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Guliyev"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "824633860183"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo343597384515.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-02T06:35:27.082Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597384515"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Eli"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767117"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Peretz"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597384515"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Yuvan Shankar Raja, ferent and innoAbout Emmylou Harris, , both as a"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-11-23T16:03:24.391Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487630"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Rudolf"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "2199023256437"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Engel"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "343597487625"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "About Sonia Gandhi, She is the widow of forAbout Roy Orbison, ng him the sobriquet thAbout"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-09-13T20:38:06.456Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878064173"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "John"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1490"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Wilson"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274878064172"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "cool"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-10-07T19:14:25.262Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687194942897"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Roberto"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "1274"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Fernandez"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "687194942891"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo274877907538.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-10-20T01:56:14.118Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877907538"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Eli"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767117"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Peretz"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "274877907538"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "photo412316861040.jpg"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-01-04T08:30:55.084Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412316861040"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Eli"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "6597069767117"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Peretz"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "412316861040"
+        }
+      },
+      {
+        "messageContent": {
+          "type": "literal",
+          "value": "good"
+        },
+        "messageCreationDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-09T06:12:06.596Z"
+        },
+        "messageId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353337054"
+        },
+        "originalPostAuthorFirstName": {
+          "type": "literal",
+          "value": "Alim"
+        },
+        "originalPostAuthorId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "17592186044425"
+        },
+        "originalPostAuthorLastName": {
+          "type": "literal",
+          "value": "Guliyev"
+        },
+        "originalPostId": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#long",
+          "type": "literal",
+          "value": "893353337051"
+        }
+      }
+    ]
+  }
+}
