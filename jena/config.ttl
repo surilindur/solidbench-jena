@@ -1,0 +1,14 @@
+@prefix fuseki: <http://jena.apache.org/fuseki#> .
+@prefix ja: <http://jena.hpl.hp.com/2005/11/Assembler#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<#server> rdf:type fuseki:Server ;
+    # Timeout: 1 hour to first result, 2 hours for the rest of the query
+    # These will probably never be reached, but it makes sense to have some limits in place
+    ja:context [ ja:cxtName "arq:queryTimeout" ;  ja:cxtValue "3600000,7200000" ] ;
+    fuseki:services ( <#solidbench> ) .
+
+<#solidbench> rdf:type fuseki:Service ;
+    fuseki:name "sparql" ;
+    fuseki:dataset [ rdf:type ja:MemoryDataset ; ja:data <file:///fuseki/http.nq> ] ;
+    fuseki:endpoint [ fuseki:operation fuseki:query ] .

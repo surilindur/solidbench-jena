@@ -1,0 +1,18 @@
+services:
+  jena-fuseki:
+    build:
+      context: https://github.com/apache/jena.git#main:jena-fuseki2/jena-fuseki-docker
+      network: host
+      args:
+        ALPINE_VERSION: 3
+        # Even with more memory allowed, Jena seems to hover at around ~2.2GB
+        JAVA_OPTIONS: -Xms2048m -Xmx8192m
+        JAVA_VERSION: 23
+        JENA_VERSION: 5.2.0
+    command: --strict --config /fuseki/config.ttl
+    container_name: jena-fuseki
+    ports:
+      - 3030:3030
+    volumes:
+      - ./config.ttl:/fuseki/config.ttl:ro
+      - ../out-fragments/http.nq:/fuseki/http.nq:ro

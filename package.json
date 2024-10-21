@@ -1,0 +1,13 @@
+{
+  "name": "solidbench-jena",
+  "private": true,
+  "packageManager": "yarn@4.5.1",
+  "scripts": {
+    "generate": "solidbench generate --fragmentConfig ./solidbench/fragmenter-config-pod.json",
+    "serve": "docker compose --file ./jena/compose.yml up",
+    "query": "python ./scripts/query.py"
+  },
+  "dependencies": {
+    "solidbench": "^2.0.0"
+  }
+}
